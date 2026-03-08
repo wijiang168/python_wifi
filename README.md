@@ -1,14 +1,13 @@
-# python_wifi简介安装
+
+## python_wifi破解简介：
+
+python_wifi是python中一个用于操作无线接口的第三方库，可以跨平台使用，支持Windows和Linux，在这里我们用来执行wifi的操作，包括连接、扫描、断开等！
+
+## python_wifi环境搭建
 
 运行环境：Windows10    Python3.10
 
 第三方库：pywifi-1.1.12
-
-# WIFI 暴力破解
-
-python_wifi简介：
-
-python_wifi是python中一个用于操作无线接口的第三方库，可以跨平台使用，支持Windows和Linux，在这里我们用来执行wifi的操作，包括连接、扫描、断开等
 
 ### 操作步骤
 
