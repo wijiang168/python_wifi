@@ -14,6 +14,7 @@ python_wifi是python中一个用于操作无线接口的第三方库，可以跨
 
 1. 安装 =>python3.10
 2. 安装依赖:
+3. 
 pip install comtypes -i https://pypi.doubanio.com/simple
 pip install pywifi -i https://pypi.doubanio.com/simple
 
